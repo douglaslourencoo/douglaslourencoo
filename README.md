@@ -7,7 +7,6 @@ Profissional de TI com mais de 10 anos de experiência em suporte técnico, infr
 🎓 Especialização em HTML, CSS e JavaScript - OniBitCode <br>
 🚀 Especialização em Tecnologia da Informação - Harvard University <br><br>
 
-
 ## technologies and interests:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
