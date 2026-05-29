@@ -16,12 +16,13 @@ Profissional de TI com mais de 10 anos de experiência em suporte técnico, infr
 
 
 ## Desenvolvimento de projetos voltados para: 
-- análise exploratória de dados
-- automação com Python
-- dashboards
-- métricas operacionais
-- modelagem
-- consultas SQL
+
+- Exploratory data analysis
+- Automation with Python
+- Dashboards
+- Operational metrics
+- Modeling
+- SQL queries
 <br><br>
 📫 Contato profissional:
 dodolourenco@gmail.com 
