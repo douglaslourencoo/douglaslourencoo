@@ -1,16 +1,26 @@
-## Hi there 👋
+Olá! Eu sou Douglas Lourenço 👋
 
-<!--
-**douglaslourencoo/douglaslourencoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional de TI com mais de 10 anos de experiência em suporte técnico, infraestrutura e ambientes corporativos, atualmente em transição para a área de Dados.
 
-Here are some ideas to get you started:
+🎓 Graduando em Ciência de Dados — UNIVESP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+Tecnologias e interesses
+Python
+SQL
+Automação de Processos
+Dashboards
+Análise de Dados
+Git e GitHub
+Projetos
+
+Desenvolvimento de projetos voltados para:
+
+análise exploratória de dados
+automação com Python
+dashboards e métricas operacionais
+modelagem e consultas SQL
+
+📫 Contato profissional:
+dodolourenco@gmail.com 
 - ⚡ Fun fact: ...
 -->
