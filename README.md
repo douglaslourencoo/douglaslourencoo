@@ -4,7 +4,7 @@ Profissional de TI com mais de 10 anos de experiência em suporte técnico, infr
 
 🎓 Graduando em Ciência de Dados — UNIVESP
 
-Tecnologias e interesses
+Interesses
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
@@ -19,12 +19,7 @@ Dashboards
 Análise de Dados
 Projetos
 
-Desenvolvimento de projetos voltados para:
-
-análise exploratória de dados
-automação com Python
-dashboards e métricas operacionais
-modelagem e consultas SQL
+Desenvolvimento de projetos voltados para: análise exploratória de dados, automação com Python, dashboards, métricas operacionais, modelagem e consultas SQL
 
 
 📫 Contato profissional:
