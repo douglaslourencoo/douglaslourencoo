@@ -31,6 +31,12 @@ Profissional de TI com mais de 10 anos de experiência em suporte técnico, infr
 
 ## 😄 Fun fact: I went to law school and I love puppies.
 <br><br>
-        📫 Contato profissional: dodolourenco@gmail.com
+<div align="center">
+
+📫 Contato profissional:
+[dodolourenco@gmail.com](mailto:dodolourenco@gmail.com)
+
+</div>
+
 
 
