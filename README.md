@@ -15,12 +15,9 @@ Tecnologias e interesses
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-Python
-SQL
 Automação de Processos
 Dashboards
 Análise de Dados
-Git e GitHub
 Projetos
 
 Desenvolvimento de projetos voltados para:
