@@ -3,9 +3,9 @@ Olá! Eu sou Douglas Lourenço 👋
 Profissional de TI com mais de 10 anos de experiência em suporte técnico, infraestrutura e ambientes corporativos, atualmente em transição para a área de Dados.
 
 🎓 Graduando em Ciência de Dados — UNIVESP <br>
-🎓 Especialização em Arquitetura de sistemas - FAT <br>
+🚀 Especialização em Arquitetura de sistemas - FAT <br>
 🎓 Especialização em HTML, CSS e JavaScript - OniBitCode <br>
-🎓 Especialização em Tecnologia da Informação - Harvard University <br><br>
+🚀 Especialização em Tecnologia da Informação - Harvard University <br><br>
 
 
 ## technologies and interests:
@@ -18,7 +18,7 @@ Profissional de TI com mais de 10 anos de experiência em suporte técnico, infr
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-
+<br><br>
 ## Desenvolvimento de projetos voltados para: 
 
 - Exploratory data analysis
