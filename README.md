@@ -26,6 +26,7 @@ automação com Python
 dashboards e métricas operacionais
 modelagem e consultas SQL
 
+
 📫 Contato profissional:
 dodolourenco@gmail.com 
 - ⚡ Fun fact: ...
