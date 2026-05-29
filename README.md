@@ -8,7 +8,7 @@ Olá! Eu sou Douglas Lourenço 👋
 🎓 Especialização em HTML, CSS e JavaScript - OniBitCode <br>
 🎓 Especialização em Tecnologia da Informação - Harvard University <br><br>
 
-## technologies and interests:
+## technologias e interesses:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
@@ -22,15 +22,18 @@ Olá! Eu sou Douglas Lourenço 👋
 
 ## Desenvolvimento de projetos voltados para: 
 
-- Exploratory data analysis
-- Automation with Python
-- Dashboards
-- Operational metrics
-- Modeling
-- SQL queries
+-Desenvolvimento de projetos específicos para:
+-Análise exploratória de dados
+-Automação com Python
+-Painéis de controle
+-Métricas operacionais
+-Modelagem
+-Consultas SQL
+
+
 <br><br>
 
-## 😄 Fun fact: I went to law school and I love puppies.
+## 😄 Fun fact: Sou formado em Direito e adoro cachorrinhos.
 <br><br>
 <div align="center">
 
