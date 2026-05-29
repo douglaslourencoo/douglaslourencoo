@@ -33,6 +33,5 @@ Profissional de TI com mais de 10 anos de experiência em suporte técnico, infr
 dodolourenco@gmail.com
 <br><br>
 
-😄 Fun fact: 
-I have a law degree and I love puppies.
+😄 Fun fact: I formed in law degree and I love puppies.
 
