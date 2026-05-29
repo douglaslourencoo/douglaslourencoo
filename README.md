@@ -2,7 +2,7 @@ Olá! Eu sou Douglas Lourenço 👋
 
 Profissional de TI com mais de 10 anos de experiência em suporte técnico, infraestrutura e ambientes corporativos, atualmente em transição para a área de Dados.
 
-🎓 Graduando em Ciência de Dados — UNIVESP
+🎓 Graduando em Ciência de Dados — UNIVESP <br>
 🎓 Graduado em Arquitetura de sistemas - FAT
 🎓 Graduado em HTML, CSS e JavaScript - OniBitCode
 🎓 Graduado em Tecnologia da Informação - Harvard
