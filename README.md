@@ -6,7 +6,7 @@ Olá! Eu sou Douglas Lourenço 👋
 🎓 Graduando em Ciência de Dados — UNIVESP <br>
 🎓 Especialização em Arquitetura de sistemas - FAT <br>
 🎓 Especialização em HTML, CSS e JavaScript - OniBitCode <br>
-🎓 Especialização em Tecnologia da Informação - Harvard University <br><br>
+🎓 Estensão livre certificada em Tecnologia da Informação - Harvard University <br><br>
 
 
 ## 🚀 Tecnologias e Interesses
