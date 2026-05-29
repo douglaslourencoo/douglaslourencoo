@@ -14,10 +14,6 @@ Interesses
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-Automação de Processos
-Dashboards
-Análise de Dados
-Projetos
 
 Desenvolvimento de projetos voltados para: análise exploratória de dados, automação com Python, dashboards, métricas operacionais, modelagem e consultas SQL
 
