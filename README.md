@@ -4,7 +4,7 @@ Profissional de TI com mais de 10 anos de experiência em suporte técnico, infr
 
 🎓 Graduando em Ciência de Dados — UNIVESP
 
-## Tecnologias e interesses:
+## technologies and interests:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
@@ -23,6 +23,7 @@ Profissional de TI com mais de 10 anos de experiência em suporte técnico, infr
 - Operational metrics
 - Modeling
 - SQL queries
+<br><br>
 <br><br>
 📫 Contato profissional:
 dodolourenco@gmail.com 
