@@ -34,5 +34,5 @@ dodolourenco@gmail.com
 <br><br>
 
 😄 Fun fact: 
-I was once a lawyer and I'm passionate about puppies.
+I was once a lawyer and in love passionate about puppies.
 
