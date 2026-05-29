@@ -5,7 +5,6 @@ Profissional de TI com mais de 10 anos de experiência em suporte técnico, infr
 🎓 Graduando em Ciência de Dados — UNIVESP
 
 Tecnologias e interesses
-## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
