@@ -4,7 +4,7 @@ Profissional de TI com mais de 10 anos de experiência em suporte técnico, infr
 
 🎓 Graduando em Ciência de Dados — UNIVESP
 
-Interesses
+## Tecnologias e interesses:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
@@ -15,11 +15,14 @@ Interesses
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 
-Desenvolvimento de projetos voltados para: <br><br> análise exploratória de dados <br><br> automação com Python <br><br> dashboards <br><br> métricas operacionais <br><br> modelagem <br><br> consultas SQL
-
-
-
-
+## Desenvolvimento de projetos voltados para:
+* análise exploratória de dados
+* automação com Python
+* dashboards
+* métricas operacionais
+* modelagem
+* consultas SQL
+<br><br>
 📫 Contato profissional:
 dodolourenco@gmail.com 
 - ⚡ Fun fact: ...
