@@ -28,10 +28,9 @@ Profissional de TI com mais de 10 anos de experiência em suporte técnico, infr
 - Modeling
 - SQL queries
 <br><br>
-<br><br>
-📫 Contato profissional:
-dodolourenco@gmail.com
-<br><br>
 
 😄 Fun fact: I graduated in law and I love puppies.
+<br><br>
+        📫 Contato profissional: dodolourenco@gmail.com
+
 
