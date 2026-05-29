@@ -29,7 +29,7 @@ Profissional de TI com mais de 10 anos de experiência em suporte técnico, infr
 - SQL queries
 <br><br>
 
-#😄 Fun fact: I went to law degree and I love puppies.
+##😄 Fun fact: I went to law school and I love puppies.
 <br><br>
         📫 Contato profissional: dodolourenco@gmail.com
 
