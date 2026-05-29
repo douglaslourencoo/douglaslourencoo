@@ -32,13 +32,13 @@ Olá! Eu sou Douglas Lourenço 👋
 
 ## Desenvolvimento de projetos voltados para: 
 
--Desenvolvimento de projetos específicos para:
--Análise exploratória de dados
--Automação com Python
--Painéis de controle
--Métricas operacionais
--Modelagem
--Consultas SQL
+✅ Desenvolvimento de projetos específicos para:
+✅ Análise exploratória de dados<br>
+✅ Automação com Python<br>
+✅ Painéis de controle<br>
+✅ Métricas operacionais<br>
+✅ Modelagem<br>
+✅ Consultas SQL<br>
 
 
 <br><br>
