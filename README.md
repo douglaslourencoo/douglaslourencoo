@@ -1,11 +1,12 @@
 Olá! Eu sou Douglas Lourenço 👋
 
-Profissional de TI com mais de 10 anos de experiência em suporte técnico, infraestrutura e ambientes corporativos, atualmente em transição para a área de Dados.
+💻 Profissional de TI com vivência prática de + de 10 anos no ambiente corporativo, atualmente em transição para Dados, com foco em SQL, Python, automação e análise de dados.
+
 
 🎓 Graduando em Ciência de Dados — UNIVESP <br>
-🚀 Especialização em Arquitetura de sistemas - FAT <br>
+🎓 Especialização em Arquitetura de sistemas - FAT <br>
 🎓 Especialização em HTML, CSS e JavaScript - OniBitCode <br>
-🚀 Especialização em Tecnologia da Informação - Harvard University <br><br>
+🎓 Especialização em Tecnologia da Informação - Harvard University <br><br>
 
 ## technologies and interests:
 
