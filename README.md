@@ -15,9 +15,7 @@ Profissional de TI com mais de 10 anos de experiência em suporte técnico, infr
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 
-## Desenvolvimento de projetos voltados para:
-* análise exploratória de dados
-* automação com Python
+## Desenvolvimento de projetos voltados para: - análise exploratória de dados - automação com Python
 * dashboards
 * métricas operacionais
 * modelagem
