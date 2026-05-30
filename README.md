@@ -26,8 +26,8 @@ Olá! Eu sou Douglas Lourenço 👋
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Science](https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Inventory Management](https://img.shields.io/badge/Inventory%20Management-009688?style=for-the-badge&logo=icloud&logoColor=white)
-
 <br>
+
 ## Desenvolvimento de projetos voltados para: 
 
 ✅ Análise exploratória de dados<br>
