@@ -42,7 +42,7 @@ Olá! Eu sou Douglas Lourenço 👋
 
 <br><br>
 
-## 😄 Fatos engrçados: Sou formado em Direito e adoro cachorrinhos.
+## 😄 curiosidades sobre mim: Sou formado em Direito e adoro cachorrinhos.
 <br><br>
 <div align="center">
 
