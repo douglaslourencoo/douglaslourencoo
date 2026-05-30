@@ -47,7 +47,6 @@ Olá! Eu sou Douglas Lourenço 👋
 ✅ Integração e Tratamento de Dados<br>
 ✅ Suporte à Tomada de Decisão<br>
 
-
 <br><br>
 
 ## 😄 curiosidades sobre mim: Sou formado em Direito e adoro cachorrinhos.
