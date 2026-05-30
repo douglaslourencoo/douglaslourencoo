@@ -28,14 +28,24 @@ Olá! Eu sou Douglas Lourenço 👋
 ![Inventory Management](https://img.shields.io/badge/Inventory%20Management-009688?style=for-the-badge&logo=icloud&logoColor=white)
 <br>
 
-## Desenvolvimento de projetos voltados para: 
+## Áreas de interesse: 
 
-✅ Análise exploratória de dados<br>
-✅ Automação com Python<br>
-✅ Painéis de controle<br>
-✅ Métricas operacionais<br>
-✅ Modelagem<br>
+✅ Análise de Dados (Data Analytics)<br>
+✅ Business Intelligence (BI)<br>
+✅ Ciência de Dados<br>
+✅ Automação de Processos<br>
+✅ Visualização de Dados<br>
+✅ Dashboards e KPIs<br>
+✅ Engenharia de Dados (aprendizado contínuo)<br>
+✅ Inteligência Artificial aplicada a negócios<br>
+✅ Desenvolvimento de Dashboards<br>
+✅ Construção de Indicadores de Performance (KPIs)<br>
+✅ Análise Exploratória de Dados (EDA)<br>
+✅ Modelagem de Dados<br>
 ✅ Consultas SQL<br>
+✅ Automação com Python<br>
+✅ Integração e Tratamento de Dados<br>
+✅ Suporte à Tomada de Decisão<br>
 
 
 <br><br>
