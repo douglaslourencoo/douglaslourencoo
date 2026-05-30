@@ -32,7 +32,6 @@ Olá! Eu sou Douglas Lourenço 👋
 
 ## Desenvolvimento de projetos voltados para: 
 
-✅ Desenvolvimento de projetos específicos para:
 ✅ Análise exploratória de dados<br>
 ✅ Automação com Python<br>
 ✅ Painéis de controle<br>
@@ -43,7 +42,7 @@ Olá! Eu sou Douglas Lourenço 👋
 
 <br><br>
 
-## 😄 Fun fact: Sou formado em Direito e adoro cachorrinhos.
+## 😄 Fatos engrçados: Sou formado em Direito e adoro cachorrinhos.
 <br><br>
 <div align="center">
 
